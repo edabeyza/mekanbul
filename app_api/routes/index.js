@@ -25,4 +25,3 @@ router
 .delete(ctrlYorumlar.yorumSil);
 
 module.exports=router;
-//

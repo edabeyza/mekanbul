@@ -31,5 +31,4 @@ mongoose.connection.on("disconnected",function(){
 mongoose.connection.on("error",function(){
     console.log("Bağlantı hatası.");
 })
-//
 
