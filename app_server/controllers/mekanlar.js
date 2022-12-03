@@ -3,8 +3,8 @@ var router = express.Router();
 const axios = require('axios');
 
 var apiSecenekleri = {
-    sunucu: "http://localhost:3000",
-    //sunucu:"",
+    //sunucu: "http://localhost:3000",
+    sunucu:"https://mekanbul-2.beyzaozeren.repl.co",
     apiYolu: "/api/mekanlar/",
 };
 
